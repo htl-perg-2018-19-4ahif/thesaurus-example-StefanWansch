@@ -1,0 +1,28 @@
+{
+  "name": "thesaurus-example-stefanwansch",
+  "version": "1.0.0",
+  "description": "find Synonyms",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/thesaurus-example-StefanWansch.git"
+  },
+  "author": "Stefan Wansch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/thesaurus-example-StefanWansch/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/thesaurus-example-StefanWansch#readme",
+  "dependencies": {
+    "@types/node": "^10.12.9",
+    "fs": "0.0.1-security",
+    "tsc": "^1.20150623.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
+}
